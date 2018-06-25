@@ -1,0 +1,5 @@
+1. Use the given link Data Set
+Answer the below questions:
+a. Find out top 5 attributes having highest correlation (select only Numeric features).
+b. Find out top 3 reasons for having more crime in a city.
+c. Which all attributes have correlation with crime rate?
